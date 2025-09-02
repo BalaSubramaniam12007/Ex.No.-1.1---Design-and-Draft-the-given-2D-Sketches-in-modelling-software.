@@ -27,11 +27,11 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+6.	After finishing the sketch use the finish sketch option to finalize the sketch.
 
 ![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
 
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
+7.	After finishing the sketch, switch to drawing mode to plot the sketch in ISO standard.
 
 ![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
 
@@ -43,6 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+<img width="864" height="1184" alt="Gemini_Generated_Image_9udzol9udzol9udz" src="https://github.com/user-attachments/assets/f0ebce5d-fd04-409d-9d90-22da51c8e006" />
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
